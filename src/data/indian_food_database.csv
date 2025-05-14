@@ -1,0 +1,33 @@
+name,category,serving_size,calories,protein,carbs,fats,fiber,description
+Idli,Breakfast,2 pieces (80g),96,3.4,18.2,0.2,0.8,Steamed rice and lentil cakes
+Dosa,Breakfast,1 piece (90g),120,3.2,20.1,3.2,1.2,Fermented rice and lentil crepe
+Poha,Breakfast,1 cup (180g),270,6.5,48.2,7.1,2.5,Flattened rice with vegetables and peanuts
+Upma,Breakfast,1 cup (200g),250,6.8,45.3,5.4,2.8,Semolina cooked with vegetables
+Paratha,Breakfast,1 piece (80g),180,4.2,25.6,7.8,1.5,Whole wheat flatbread
+Sambar,Main Course,1 cup (200ml),152,6.8,22.4,4.2,5.6,Lentil-based vegetable stew
+Dal Tadka,Main Course,1 cup (200ml),180,12.4,24.6,3.8,6.2,Tempered yellow lentils
+Rajma,Main Course,1 cup (200g),220,13.2,32.4,4.6,8.4,Kidney beans curry
+Palak Paneer,Main Course,1 cup (200g),260,14.6,12.8,18.4,4.2,Spinach and cottage cheese curry
+Chicken Curry,Main Course,200g,320,28.4,8.6,20.2,2.4,Spiced chicken curry
+Fish Curry,Main Course,200g,280,32.6,6.4,15.8,1.2,Fish cooked in spiced gravy
+Chapati,Breads,1 piece (30g),80,2.8,16.2,0.4,1.8,Whole wheat flatbread
+Naan,Breads,1 piece (60g),160,4.2,28.4,3.2,1.4,Leavened flatbread
+Rice,Staples,1 cup cooked (150g),205,4.2,45.2,0.4,0.6,Steamed white rice
+Brown Rice,Staples,1 cup cooked (150g),216,4.8,44.8,1.8,3.2,Steamed brown rice
+Bhindi Masala,Vegetables,1 cup (150g),128,4.2,14.6,7.2,4.8,Spiced okra preparation
+Aloo Gobi,Vegetables,1 cup (200g),180,5.4,28.6,6.2,5.2,Potato and cauliflower curry
+Chana Masala,Legumes,1 cup (200g),240,12.6,36.4,7.8,8.6,Spiced chickpea curry
+Paneer Tikka,Snacks,150g,320,18.4,8.6,24.6,1.2,Grilled cottage cheese with spices
+Samosa,Snacks,1 piece (60g),180,3.2,24.2,8.4,1.8,Fried pastry with spiced filling
+Pakora,Snacks,100g,220,6.4,22.8,12.6,2.4,Deep-fried vegetable fritters
+Raita,Accompaniments,1 cup (200g),86,3.8,8.4,4.2,0.8,Yogurt with vegetables
+Papad,Accompaniments,1 piece (10g),35,1.2,6.8,0.8,0.4,Crispy lentil wafer
+Khichdi,One Pot,1 cup (200g),220,8.6,38.4,4.8,4.2,Rice and lentil porridge
+Biryani,One Pot,1 cup (250g),320,12.4,42.6,12.8,3.6,Spiced rice with meat or vegetables
+Butter Chicken,Main Course,200g,380,24.6,12.4,28.6,2.2,Creamy tomato-based chicken curry
+Masala Chai,Beverages,1 cup (200ml),120,2.4,22.6,2.8,0,Spiced milk tea
+Lassi,Beverages,1 glass (250ml),150,6.2,24.8,3.6,0,Yogurt-based drink
+Buttermilk,Beverages,1 glass (200ml),80,4.2,8.6,2.4,0,Spiced diluted yogurt drink
+Gulab Jamun,Desserts,2 pieces (80g),280,4.2,42.6,10.4,0.6,Deep-fried milk solids in sugar syrup
+Kheer,Desserts,1 cup (200g),240,6.8,36.4,8.2,0.8,Rice pudding with nuts
+Gajar Ka Halwa,Desserts,100g,260,4.6,38.2,10.8,2.4,Carrot-based sweet pudding 
